@@ -1,0 +1,36 @@
+
+chocolate sales case study
+
+Client Requirement->
+		    Why the bussiness are going down even though our salesman are young and motivated and all the people are giving are best??
+
+Expectations->
+1.  Client want us to find out what are the things that are not working and what are the insights of company that are useful for company like 
+who are the people performing better so we can give rewards to them so they will be more motivated towards work.
+
+2.He also want us to find out in which region and geography sales are going down and above and what are the particular reason for that.
+3.In which category our sales are going up so we can improve that product and focus only on them which are giving good profit to us.We can close the other items because they require labour and money and most important time So its better to close them and focus on that categories from where we are getting our 70% profit.
+4.He also want us to share that which chocolate people are liking even though the price is more.
+
+* Now our works starts ,what we have ,we have data,we have to find out every single details and every minute details that will be helpful for bussiness
+
+What most people do they directly load the data in power bi
+and then in future they have to face consequences
+
+According to me 1st thing we have to do is that we have to observe the data
+40-50% of answer we get only from data by observing.So we started to observe the data and while observing we get to know that there is only 3 types of chocolate are present in the data and those ares Bars,Bites,Others
+Basically bites are the one who look like perks,bites are look like
+cube box chocolates and all the remaining categories are put into others.
+
+
+KPIs
+
+Track the best selling flavours
+
+some flavours of chocolate are persistent and have a way of reshaping the sales
+
+Knowing which flavors perform the best and which don’t is crucial for both profitability and cutting costs. For instance, you might have not seen that one flavor is a dud and costs more money to purchase ingredients for and store than it’s earning. Removing it from the menu removes a set-back from your business. In its place, make a top-selling special flavor a permanent menu item
+
+
+
+	
